@@ -1,0 +1,12 @@
+fastapi==0.89.1
+uvicorn==0.20.0 # ASGI server for production
+requests==2.28.2
+pandas==1.5.3
+notebook==6.5.2
+matplotlib==3.6.3
+seaborn==0.12.2
+pycountry==22.3.5
+scikit-learn==1.2.1
+statsmodels==0.13.5
+miceforest==5.6.3
+pymongo==4.3.3
